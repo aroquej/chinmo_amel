@@ -1,0 +1,19 @@
+﻿# Sequence (5'-3'),,
+# 5' <Barcode>NNNNNNNNTATA(rG)(rG)(rG),,
+sample_name,caste,barcode
+F14,forager,ACAGAT
+F27,forager,ATCGTG
+F28,forager,CACGAT
+F41,forager,CACTGA
+F48,forager,CTGACG
+F49,forager,GAGTGA
+F50,forager,GTATAC
+F54,forager,TCGAGC
+N2,nurse,ACAGAT
+N4,nurse,ATCGTG
+N29,nurse,CACGAT
+N31,nurse,CACTGA
+N32,nurse,CTGACG
+N33,nurse,GAGTGA
+N41,nurse,GTATAC
+N42,nurse,TCGAGC

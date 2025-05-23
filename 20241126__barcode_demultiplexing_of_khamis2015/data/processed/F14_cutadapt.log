@@ -1,0 +1,29 @@
+This is cutadapt 4.9 with Python 3.12.7
+Command line parameters: -j 8 -g ^ACAGATNNNNNNNNTATAGGG --discard-untrimmed --pair-filter=any -o data/processed/F14_1.fastq.gz -p data/processed/F14_2.fastq.gz data/raw/SRR1582203_1.fastq.gz data/raw/SRR1582203_2.fastq.gz
+Processing paired-end reads on 8 cores ...
+Finished in 127.587 s (1.878 µs/read; 31.94 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:         67,921,806
+  Read 1 with adapter:               7,580,596 (11.2%)
+Pairs written (passing filters):     7,580,596 (11.2%)
+
+Total basepairs processed: 13,584,361,200 bp
+  Read 1: 6,792,180,600 bp
+  Read 2: 6,792,180,600 bp
+Total written (filtered):  1,356,982,528 bp (10.0%)
+  Read 1:   598,922,928 bp
+  Read 2:   758,059,600 bp
+
+=== First read: Adapter 1 ===
+
+Sequence: ACAGATNNNNNNNNTATAGGG; Type: anchored 5'; Length: 21; Trimmed: 7580596 times
+
+No. of allowed errors: 1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+20	86484	0.0	1	0 86484
+21	7463472	0.0	1	5424131 2039341
+22	30640	0.0	1	0 30640
