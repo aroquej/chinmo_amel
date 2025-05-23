@@ -1,0 +1,13 @@
+{
+	"n_targets": 12123,
+	"n_bootstraps": 100,
+	"n_processed": 8985233,
+	"n_pseudoaligned": 7373363,
+	"n_unique": 7232319,
+	"p_pseudoaligned": 82.1,
+	"p_unique": 80.5,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Thu Sep 26 18:02:05 2024",
+	"call": "kallisto quant -i amellifera -o SRR9705246.fastq.gz.trim.gz.output -b 100 --single -l 50 -s 1 SRR9705246.fastq.gz.trim.gz"
+}

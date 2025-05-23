@@ -1,0 +1,13 @@
+{
+	"n_targets": 12123,
+	"n_bootstraps": 100,
+	"n_processed": 13084158,
+	"n_pseudoaligned": 10814797,
+	"n_unique": 6792812,
+	"p_pseudoaligned": 82.7,
+	"p_unique": 51.9,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Thu Dec  5 14:38:44 2024",
+	"call": "/home/user/anaconda3/bin/kallisto quant -i amellifera -o N4 -b 100 --fr-stranded -t 12 N4_1.fastq.gz N4_2.fastq.gz"
+}

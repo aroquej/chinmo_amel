@@ -1,0 +1,2 @@
+$ bbmap.sh ref=DWvirus.fasta
+$ bbmap.sh in=reads.fq outm=mapped.fq outu=unmapped.fq

@@ -1,0 +1,13 @@
+{
+	"n_targets": 12123,
+	"n_bootstraps": 100,
+	"n_processed": 151984936,
+	"n_pseudoaligned": 61437512,
+	"n_unique": 60243094,
+	"p_pseudoaligned": 40.4,
+	"p_unique": 39.6,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Tue Oct  1 15:23:08 2024",
+	"call": "/home/user/anaconda3/bin/kallisto quant -t 10 -i amellifera -o SRR446004 -b 100 --seed 665 --rf-stranded SRR446004_1.apis.fastq.gz SRR446004_2.apis.fastq.gz"
+}
