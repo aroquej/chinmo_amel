@@ -1,0 +1,13 @@
+Package: org.Amellifera.eg.db
+Title: Genome wide annotation for Apis mellifera
+Description: Genome wide annotation for Apis mellifera, primarily based on mapping using Entrez Gene identifiers.
+Version: 1.0.0
+Author: Arthur Roque
+Maintainer: Arthur Roque <arthur.roque@example.com>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.66.0)
+Suggests: DBI, annotate, RUnit
+License: Artistic-2.0
+organism: Apis mellifera
+species: Apis mellifera
+biocViews: OrgDb, annotation
+

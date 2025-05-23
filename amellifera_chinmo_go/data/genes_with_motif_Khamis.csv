@@ -1,0 +1,267 @@
+gffid,gene_id,gene_names,gene_beebase,product,motif_count
+gene35,100577692,LOC100577692,GB42180,transcription factor btd,1
+gene79,751098,Glob1,GB47694,globin 1,3
+gene155,724238,LOC724238,GB50342,paired box protein Pax-6,1
+gene220,102653920,LOC102653920,,uncharacterized LOC102653920,1
+gene241,100577454,LOC100577454,GB53192,tuftelin,1
+gene277,551443,LOC551443,GB54844,uncharacterized LOC551443,1
+gene425,102655155,LOC102655155,,uncharacterized LOC102655155,3
+gene550,410732,LOC410732,GB43004,3-phosphoinositide-dependent protein kinase 1,1
+gene587,413470,LOC413470,GB41039,60S ribosomal protein L17,1
+gene593,409606,LOC409606,GB41045,uncharacterized LOC409606,2
+gene714,100577140,LOC100577140,GB44735,UDP-glucuronosyltransferase 2B19,2
+gene719,113219066,LOC113219066,,uncharacterized LOC113219066,1
+gene745,412748,LOC412748,GB44770,ATP-binding cassette sub-family G member 1,1
+gene815,409109,LOC409109,GB46429,mycosubtilin synthase subunit C,1
+gene820,724680,LOC724680,GB46502,uncharacterized LOC724680,1
+gene848,102656611,LOC102656611,,glycine-rich cell wall structural protein-like,1
+gene912,724636,LOC724636,GB55306,myoblast determination protein 1 homolog,1
+gene914,411850,LOC411850,GB55269,protein PAT1 homolog 1,1
+gene944,411473,LOC411473,GB47450,"carnitine O-palmitoyltransferase 2, mitochondrial",1
+gene987,726115,LOC726115,GB47474,"D-2-hydroxyglutarate dehydrogenase, mitochondrial",2
+gene989,412196,LOC412196,GB47415,uncharacterized LOC412196,1
+gene1002,100578881,LOC100578881,GB47484,histone H3.3-like type 1,1
+gene1060,413560,LOC413560,GB49734,uncharacterized LOC413560,1
+gene1202,412778,LOC412778,GB45530,chondroitin sulfate proteoglycan 4,1
+gene1205,413575,LOC413575,GB48937,facilitated trehalose transporter Tret1,1
+gene1379,409097,MsrA,GB55004,methionine sulphoxide reductase A,1
+gene1385,102656037,LOC102656037,,integumentary mucin C.1,1
+gene1396,104794347,Mir6053,,microRNA 6053,1
+gene1684,724275,LOC724275,GB43418,uncharacterized LOC724275,2
+gene1754,100578727,LOC100578727,GB50767,uncharacterized LOC100578727,1
+gene1772,551849,LOC551849,GB50756,L-galactose dehydrogenase,1
+gene1794,552471,LOC552471,GB50746,"39S ribosomal protein L52, mitochondrial",1
+gene1995,408693,LOC408693,GB52469,epidermal growth factor receptor kinase substrate 8,1
+gene2035,113219427,LOC113219427,,uncharacterized LOC113219427,1
+gene2084,410862,LOC410862,GB49801,solute carrier family 41 member 3,1
+gene2114,724211,LOC724211,GB19797,cytochrome P450 9e2,2
+gene2168,410828,LOC410828,GB55638,"tryptophan 2,3-dioxygenase",1
+gene2221,725144,LOC725144,GB55604,uncharacterized LOC725144,4
+gene2232,100049563,Kakusei,,kakusei non-coding nuclear RNA,1
+gene2318,725070,LOC725070,GB55465,DNA fragmentation factor subunit alpha,1
+gene2325,408660,LOC408660,GB55556,uncharacterized LOC408660,1
+gene2392,408655,LOC408655,GB55512,acidic fibroblast growth factor intracellular-binding protein,1
+gene2417,104794355,Mir6047b,,microRNA 6047b,1
+gene2467,409402,LOC409402,GB53286,uncharacterized LOC409402,1
+gene2587,107964175,LOC107964175,,uncharacterized LOC107964175,1
+gene2611,409587,Hsc70-3,GB49117,heat shock 70 kDa protein cognate 3,1
+gene2633,102654462,LOC102654462,,uncharacterized LOC102654462,1
+gene2653,100577303,LOC100577303,,uncharacterized LOC100577303,1
+gene2756,409347,LOC409347,GB51495,U4/U6.U5 tri-snRNP-associated protein 1,1
+gene2765,409523,LOC409523,GB51503,mitogen-activated protein kinase 1,1
+gene2785,410958,LOC410958,GB55847,ubiquitin-like modifier-activating enzyme 1,1
+gene2786,410959,LOC410959,GB55846,kinesin 12,1
+gene2802,100578670,LOC100578670,,uncharacterized LOC100578670,1
+gene2803,100577047,LOC100577047,GB55757,uncharacterized LOC100577047,1
+gene2814,726409,LOC726409,GB12479,peptidyl-prolyl cis-trans isomerase H,1
+gene2947,550808,LOC550808,GB53647,WD repeat-containing protein 75,1
+gene2988,413655,LOC413655,GB53823,"3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial",1
+gene2999,724779,LOC724779,GB53830,protein artichoke,1
+gene3032,410926,LOC410926,GB49184,PH domain leucine-rich repeat-containing protein phosphatase 2,1
+gene3045,102656502,LOC102656502,,uncharacterized LOC102656502,1
+gene3188,102656910,LOC102656910,,uncharacterized LOC102656910,1
+gene3208,113218667,LOC113218667,,uncharacterized LOC113218667,1
+gene3246,412036,LOC412036,GB49651,exocyst complex component 3,2
+gene3279,551527,LOC551527,GB51238,acyl-CoA Delta(11) desaturase,1
+gene3282,107965749,LOC107965749,,acyl-CoA Delta(11) desaturase-like,1
+gene3310,102654638,LOC102654638,,uncharacterized LOC102654638,2
+gene3363,102654688,LOC102654688,,uncharacterized LOC102654688,1
+gene3456,406107,Gfat2,GB49534,glucosamine-fructose-6-phosphate aminotransferase 2,1
+gene3475,727466,LOC727466,GB49605,XK-related protein 6,1
+gene3583,724971,LOC724971,GB50482,uncharacterized LOC724971,1
+gene3600,725208,LOC725208,GB50475,E3 ubiquitin-protein ligase RAD18,1
+gene3649,100578672,LOC100578672,GB50449,putative uncharacterized protein DDB_G0271606,2
+gene3749,107964291,LOC107964291,,uncharacterized LOC107964291,1
+gene3868,408777,LOC408777,GB44092,no mechanoreceptor potential C,2
+gene3905,113218727,LOC113218727,,uncharacterized LOC113218727,1
+gene3930,409949,LOC409949,GB52992,agrin,1
+gene4012,100576378,LOC100576378,GB54572,ribonuclease P protein subunit p30,1
+gene4015,552572,LOC552572,GB52531,eukaryotic translation initiation factor 5A,1
+gene4036,412443,LOC412443,GB44397,regulator of microtubule dynamics protein 1,1
+gene4109,412858,LOC412858,GB51385,hemicentin-2,1
+gene4149,113218801,LOC113218801,,uncharacterized LOC113218801,3
+gene4150,102655605,LOC102655605,,uncharacterized LOC102655605,1
+gene4213,102654649,LOC102654649,,uncharacterized LOC102654649,2
+gene4215,100578665,LOC100578665,,uncharacterized LOC100578665,1
+gene4427,412593,LOC412593,GB44429,DNA damage-binding protein 1,1
+gene4456,726530,LOC726530,GB44671,"dimethyladenosine transferase 2, mitochondrial",1
+gene4519,408847,LOC408847,GB44631,uroporphyrinogen-III synthase,1
+gene4542,113218812,LOC113218812,,protein anoxia up-regulated-like,2
+gene4544,727423,LOC727423,GB44503,uncharacterized LOC727423,1
+gene4598,411385,LOC411385,GB44576,ester hydrolase C11orf54 homolog,1
+gene4599,100576683,LOC100576683,GB44536,uncharacterized LOC100576683,1
+gene4621,406081,LOC406081,GB44549,glucose oxidase,1
+gene4628,725364,LOC725364,GB44552,flightin,1
+gene4677,408863,LOC408863,GB41376,J domain-containing protein,1
+gene4700,552673,LOC552673,GB41364,alpha- and gamma-adaptin-binding protein p34,1
+gene4726,726737,LOC726737,GB41339,venom acid phosphatase Acph-1,1
+gene4845,678511,Qbp-1,GB45741,Queen brain-selective protein-1,1
+gene4939,724655,LOC724655,GB41094,transmembrane and TPR repeat-containing protein 3,1
+gene4974,102656855,LOC102656855,,uncharacterized LOC102656855,1
+gene4975,107964589,LOC107964589,,uncharacterized LOC107964589,1
+gene5014,412933,LOC412933,GB17364,geranylgeranyl transferase type-1 subunit beta,3
+gene5076,409899,LOC409899,GB48560,putative sodium-dependent multivitamin transporter,3
+gene5144,107964583,LOC107964583,,uncharacterized LOC107964583,1
+gene5152,113218826,LOC113218826,,uncharacterized LOC113218826,1
+gene5189,411172,LOC411172,GB41499,tetratricopeptide repeat protein 5,1
+gene5215,100576482,LOC100576482,GB41451,centromere protein J,1
+gene5224,100576517,LOC100576517,GB41460,uncharacterized LOC100576517,2
+gene5233,725218,LOC725218,GB41467,growth arrest-specific protein 2,1
+gene5239,550677,LOC550677,GB11848,protein mab-21,1
+gene5259,102656875,LOC102656875,,uncharacterized LOC102656875,1
+gene5452,100577919,LOC100577919,GB42350,probable serine/threonine-protein kinase kinX,1
+gene5456,100577214,LOC100577214,GB42377,protein giant-lens,2
+gene5494,102656523,LOC102656523,,uncharacterized LOC102656523,3
+gene5521,724442,LOC724442,GB45456,serine-rich adhesin for platelets,1
+gene5549,100577346,LOC100577346,GB45440,sodium channel protein Nach,1
+gene5581,411935,LOC411935,GB45365,large neutral amino acids transporter small subunit 2,1
+gene5650,726163,LOC726163,,methyltransferase-like protein 5,1
+gene5697,412259,LOC412259,GB49692,BTB/POZ domain-containing protein KCTD9,1
+gene5708,408953,LOC408953,GB49688,peroxidase,1
+gene5716,409277,LOC409277,GB46277,acidic phospholipase A2 PA4,1
+gene5723,551193,LOC551193,GB46241,TBC1 domain family member 19,3
+gene5727,551349,LOC551349,GB46271,protein BCL9 homolog,3
+gene5755,100576755,LOC100576755,,uncharacterized LOC100576755,2
+gene5779,102654639,LOC102654639,,uncharacterized LOC102654639,2
+gene5957,408937,LOC408937,GB43302,SPARC,2
+gene6004,411220,LOC411220,GB40973,glutamate receptor 1,1
+gene6014,413494,LOC413494,GB42454,protein VAC14 homolog,1
+gene6043,100577307,LOC100577307,GB42470,uncharacterized LOC100577307,2
+gene6044,411712,LOC411712,GB42472,embryonic polarity protein dorsal,1
+gene6073,100576293,LOC100576293,GB42492,zinc finger protein 182,1
+gene6076,100578503,LOC100578503,GB42494,negative elongation factor B,1
+gene6097,409558,LOC409558,GB44281,polyadenylate-binding protein 2-B,1
+gene6169,552048,LOC552048,GB44333,flocculation protein FLO11,1
+gene6237,408901,LOC408901,GB48150,actin-related protein 2/3 complex subunit 1A,2
+gene6305,725844,LOC725844,GB51418,uncharacterized LOC725844,1
+gene6437,413556,LOC413556,GB40410,putative sodium-dependent multivitamin transporter,1
+gene6499,100578589,LOC100578589,,uncharacterized LOC100578589,1
+gene6582,411245,LOC411245,GB54530,dedicator of cytokinesis protein 7,1
+gene6606,100577724,LOC100577724,,ELMO domain-containing protein 2,4
+gene6651,411265,LOC411265,GB43820,CXXC-type zinc finger protein 1,2
+gene6657,724933,LOC724933,GB43908,xanthine dehydrogenase,1
+gene6680,727408,LOC727408,GB43897,slit homolog 1 protein,2
+gene6704,412837,LOC412837,,ribonuclease H2 subunit A,1
+gene6752,552516,LOC552516,GB41841,glucoside xylosyltransferase 1,1
+gene6758,409219,LOC409219,GB41825,phospholipase A-2-activating protein,1
+gene6762,100577546,LOC100577546,GB41849,C1GALT1-specific chaperone 1-like protein,1
+gene6853,100578200,LOC100578200,GB41896,uncharacterized LOC100578200,1
+gene6868,726212,LOC726212,GB41761,25S rRNA (cytosine-C(5))-methyltransferase nop2,1
+gene6890,552215,LOC552215,GB41917,uncharacterized LOC552215,1
+gene6897,551572,LOC551572,GB52819,uncharacterized LOC551572,1
+gene6919,100578668,LOC100578668,GB52833,glutamic acid-rich protein,1
+gene6951,406084,Ecr,GB48059,ecdysone receptor,3
+gene7280,409023,LOC409023,GB44841,methylthioribose-1-phosphate isomerase,1
+gene7329,100576679,LOC100576679,,uncharacterized LOC100576679,1
+gene7452,409267,LOC409267,GB42835,glycogen phosphorylase,1
+gene7496,726382,LOC726382,GB42635,uncharacterized LOC726382,1
+gene7749,406101,Obp4,GB53372,odorant binding protein 4,1
+gene7802,100577690,LOC100577690,GB55968,fas-associated death domain protein,1
+gene7844,100576301,LOC100576301,,uncharacterized LOC100576301,2
+gene7852,410241,LOC410241,GB42944,ras-related protein Rab-10,1
+gene7861,100578068,LOC100578068,GB41011,lateral signaling target protein 2 homolog,1
+gene8010,409159,LOC409159,GB48344,G-protein coupled receptor moody,2
+gene8035,726016,LOC726016,GB48358,chromosome transmission fidelity protein 8 homolog,1
+gene8091,100576140,LOC100576140,GB54223,uncharacterized LOC100576140,1
+gene8149,102654069,LOC102654069,,ninjurin-1,2
+gene8189,102655765,LOC102655765,,dnaJ homolog subfamily C member 4,1
+gene8226,552042,LOC552042,GB51069,rab-like protein 3,2
+gene8239,408291,LOC408291,GB50970,"3-ketoacyl-CoA thiolase, mitochondrial",1
+gene8245,726389,LOC726389,GB50966,glycerophosphodiester phosphodiesterase 1,2
+gene8302,410068,Obp10,GB50936,odorant binding protein 10,1
+gene8322,726977,LOC726977,GB50925,prostaglandin E synthase 2,1
+gene8375,726321,LOC726321,GB51158,uncharacterized LOC726321,1
+gene8383,551793,LOC551793,GB50897,uncharacterized LOC551793,1
+gene8392,409650,LOC409650,GB50891,solute carrier organic anion transporter family member 2A1,1
+gene8395,551587,LOC551587,GB50889,RNA-binding protein 24,1
+gene8427,410187,LOC410187,GB48746,esterase E4,2
+gene8520,410288,LOC410288,GB46635,phytanoyl-CoA dioxygenase,1
+gene8557,550656,LOC550656,GB46655,splicing factor U2AF 50 kDa subunit,1
+gene8615,113219086,LOC113219086,,uncharacterized LOC113219086,1
+gene8663,406149,Mrjp6,GB55207,major royal jelly protein 6,1
+gene8684,411943,LOC411943,GB55163,glutaminyl-peptide cyclotransferase,1
+gene8689,412375,LOC412375,GB55161,nudC domain-containing protein 3,2
+gene8819,552680,LOC552680,GB46974,X-ray repair cross-complementing protein 6,1
+gene8837,411718,LOC411718,GB49420,ubiquitin-associated domain-containing protein 1,1
+gene8915,724997,LOC724997,GB47237,protein naked cuticle homolog 2-like,1
+gene8949,410309,E75,,ecdysone-induced protein 75,2
+gene8978,113219138,LOC113219138,,uncharacterized LOC113219138,2
+gene9049,409396,LOC409396,GB45044,eukaryotic translation initiation factor 4E-binding protein Mextli,1
+gene9058,100577845,LOC100577845,GB45134,neprilysin-1,1
+gene9060,410331,LOC410331,GB45135,transcription elongation factor SPT6-like,1
+gene9112,410349,LOC410349,GB45158,UPF0598 protein CG30010,1
+gene9114,408369,LOC408369,GB45159,putative glutathione-specific gamma-glutamylcyclotransferase 2,3
+gene9177,410253,LOC410253,GB44976,ataxin-2 homolog,1
+gene9195,410255,LOC410255,GB44970,RUN domain-containing protein 1,1
+gene9259,100576153,LOC100576153,GB45224,odorant receptor 13a,1
+gene9298,724842,LOC724842,GB45249,elongator complex protein 5,1
+gene9328,411863,LOC411863,GB44894,dehydrogenase/reductase SDR family member 7,1
+gene9367,100576421,LOC100576421,GB44876,uncharacterized LOC100576421,1
+gene9372,102653896,LOC102653896,,uncharacterized LOC102653896,1
+gene9375,107964010,LOC107964010,,uncharacterized LOC107964010,1
+gene9446,408321,LOC408321,GB43128,RCC1 and BTB domain-containing protein 1,1
+gene9451,552098,LOC552098,GB43194,syntaxin-8,2
+gene9471,725289,LOC725289,GB43207,low-density lipoprotein receptor-related protein 2,1
+gene9506,410278,LOC410278,GB43225,putative inorganic phosphate cotransporter,1
+gene9518,726486,LOC726486,GB43086,uncharacterized LOC726486,1
+gene9730,102653810,LOC102653810,,odorant receptor 22c,1
+gene9731,725752,Or107,GB40665,odorant receptor 107,1
+gene9747,113219178,LOC113219178,,small nucleolar RNA SNORA79,1
+gene9803,725309,LOC725309,GB40608,keratin-associated protein 19-2,1
+gene9846,727050,LOC727050,GB49340,"phosphatidylserine decarboxylase proenzyme, mitochondrial",1
+gene9896,410042,LOC410042,GB49312,glyoxylate reductase/hydroxypyruvate reductase,1
+gene9972,552397,LOC552397,GB52090,Krueppel-like factor 6,1
+gene9998,410393,LOC410393,GB52063,alkaline phosphatase,1
+gene10032,726204,LOC726204,GB52039,transcription factor cwo,1
+gene10113,551053,LOC551053,GB54756,facilitated trehalose transporter Tret1,2
+gene10190,100577045,LOC100577045,GB48270,uncharacterized LOC100577045,2
+gene10196,413881,LOC413881,GB20047,AP-3 complex subunit sigma-2,2
+gene10226,410420,LOC410420,GB48255,isochorismatase domain-containing protein 2,1
+gene10264,726472,LOC726472,GB50651,prohormone-3,2
+gene10299,409963,LOC409963,GB40168,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase",1
+gene10302,724899,LOC724899,GB15106,lysozyme,1
+gene10335,726040,LOC726040,GB40077,4-coumarate--CoA ligase 1,1
+gene10344,410451,LOC410451,GB40141,venom serine carboxypeptidase,1
+gene10398,102656472,LOC102656472,,uncharacterized LOC102656472,1
+gene10408,551812,LOC551812,GB53861,mitochondrial tRNA-specific 2-thiouridylase 1,2
+gene10413,406150,Glurb,GB53857,metabotropic glutamate receptor B,2
+gene10503,727598,LOC727598,GB46842,probable cytochrome P450 6a13,1
+gene10513,412876,LOC412876,GB40280,"pyruvate carboxylase, mitochondrial",2
+gene10584,410475,LOC410475,GB48482,tRNA pseudouridine(38/39) synthase,2
+gene10611,724465,LOC724465,,enhancer of split mbeta protein,1
+gene10688,113219235,LOC113219235,,uncharacterized LOC113219235,1
+gene10693,552373,LOC552373,GB43630,dolichyldiphosphatase 1,3
+gene10709,102656671,LOC102656671,,uncharacterized LOC102656671,1
+gene10722,107965504,LOC107965504,,uncharacterized LOC107965504,1
+gene10735,100578854,LOC100578854,GB51011,uncharacterized LOC100578854,2
+gene10756,408453,LOC408453,GB19967,cytochrome P450 9e2,1
+gene10774,406155,PPO,GB43738,phenoloxidase subunit A3,1
+gene10802,100577136,LOC100577136,GB51851,diphthine methyltransferase,2
+gene10889,410506,LOC410506,GB54136,uncharacterized LOC410506,2
+gene10894,102654480,LOC102654480,,uncharacterized LOC102654480,1
+gene10925,102653589,LOC102653589,,uncharacterized LOC102653589,1
+gene10964,552592,LOC552592,GB52702,facilitated trehalose transporter Tret1,2
+gene10980,410530,LOC410530,GB52768,alkaline phosphatase,1
+gene11002,410539,LOC410539,GB52724,protein 5NUC,2
+gene11017,551766,LOC551766,GB52736,"ATP synthase subunit beta, mitochondrial",1
+gene11038,726839,LOC726839,GB41742,facilitated trehalose transporter Tret1,1
+gene11051,107963986,LOC107963986,,centrosomal protein of 162 kDa,1
+gene11081,727135,LOC727135,GB41719,uncharacterized LOC727135,1
+gene11203,102654708,LOC102654708,,transcription initiation protein SPT3 homolog,1
+gene11267,410151,LOC410151,GB54432,retinal homeobox protein Rx2,1
+gene11316,113219277,LOC113219277,,uncharacterized LOC113219277,1
+gene11420,408542,LOC408542,GB50553,uncharacterized LOC408542,3
+gene11443,408538,LOC408538,GB50572,uncharacterized LOC408538,3
+gene11493,410620,LOC410620,GB50609,heat shock protein Hsp70Ab-like,2
+gene11638,408522,LOC408522,GB50050,ADP-ribosylation factor-like protein 3,1
+gene11689,408512,LOC408512,GB50024,origin recognition complex subunit 1,2
+gene11703,107965577,LOC107965577,,uncharacterized LOC107965577,1
+gene11767,102656786,LOC102656786,,uncharacterized LOC102656786,2
+gene11870,113219355,LOC113219355,,large subunit ribosomal RNA,1
+gene11977,726935,LOC726935,GB54316,cardioacceleratory peptide receptor,1
+gene12016,408556,LOC408556,GB51257,eukaryotic translation initiation factor 5B,1
+gene12017,102655915,LOC102655915,,uncharacterized LOC102655915,2
+gene12023,409572,LOC409572,GB51261,TWiK family of potassium channels protein 9,1
+gene12065,408557,LOC408557,GB51282,thioredoxin domain-containing protein 5 homolog,1
+gene12252,410658,LOC410658,GB45975,LIM/homeobox protein Lhx3,3
+gene12348,113219378,LOC113219378,,large subunit ribosomal RNA,1
