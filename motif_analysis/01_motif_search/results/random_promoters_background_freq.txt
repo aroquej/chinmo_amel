@@ -1,7 +1,0 @@
-# 0-order Markov frequencies from file results/random_promoters_background.fa
-# seqs: 1000    min: 1000    max: 1000    avg: 1000.0    sum: 1000000    alph: DNA
-# order 0
-A 3.697e-01
-C 1.303e-01
-G 1.303e-01
-T 3.697e-01
