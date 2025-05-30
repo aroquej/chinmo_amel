@@ -79,8 +79,8 @@ write.csv(as.data.frame(GO_results_justino_CC), file = "tables/GO_results_justin
 write.csv(as.data.frame(GO_results_justino_MF), file = "tables/GO_results_justino_MF.csv", row.names = FALSE)
 write.csv(as.data.frame(GO_results_justino_BP), file = "tables/GO_results_justino_BP.csv", row.names = FALSE)
 
-top_BP <- as.data.frame(GO_results_justino_BP) %>% head(5)
-top_MF <- as.data.frame(GO_results_justino_MF) %>% head(5)
+top_BP <- as.data.frame(GO_results_justino_BP) %>% head(1)
+top_MF <- as.data.frame(GO_results_justino_MF) %>% head(3)
 top_CC <- as.data.frame(GO_results_justino_CC) %>% head(5)
 
 # Add an ONTOLOGY column
@@ -90,19 +90,21 @@ top_BP$ONTOLOGY <- "BP"
 combined_results <- rbind(top_MF, top_CC, top_BP)
 
 fit_justino <- ggplot(combined_results, aes(x = RichFactor, y = Description)) +
-  geom_segment(aes(xend=0, yend = Description)) +
+  geom_segment(aes(xend = 0, yend = Description)) +
   geom_point(aes(size = Count, colour = p.adjust)) +
-  facet_grid(rows = vars(ONTOLOGY), scales = "free") +
+  scale_size(range = c(6, 12))+
+  facet_wrap(vars(ONTOLOGY), scales = "free_y", ncol = 1) +
   scale_colour_gradient(low = "blue", high = "#FFCC00", guide = "colorbar") +
+  scale_y_discrete(expand = expansion(mult = c(0.1, 0.1))) + 
   theme_minimal() +
   theme(
-    axis.text.x = element_text(size = 14, angle = 45, hjust = 1, face = "bold"),
-    axis.text.y = element_text(size = 16, hjust = 1),
-    axis.title = element_text(size = 16, face = "bold"),   
-    legend.title = element_text(size = 16, face = "bold"),
-    legend.text = element_text(size = 14),              
-    strip.text = element_text(size = 16, face = "bold"),
-    panel.spacing = unit(1, "lines")
+    axis.text.x = element_text(size = 25, angle = 45, hjust = 1, face = "bold"),
+    axis.text.y = element_text(size = 30, hjust = 1, lineheight = 1.8),  
+    axis.title = element_text(size = 25, face = "bold"),   
+    legend.title = element_text(size = 25, face = "bold"),
+    legend.text = element_text(size = 25),              
+    strip.text = element_text(size = 25, face = "bold"),
+    panel.spacing = unit(0.5, "lines")
   ) +
   labs(
     x = "Rich Factor",
@@ -143,17 +145,16 @@ GO_results_justino_motif_CC <- enrichGO(gene = genes_to_test_justino_motif,pvalu
 as.data.frame(GO_results_justino_motif_BP)
 as.data.frame(GO_results_justino_motif_MF)
 as.data.frame(GO_results_justino_motif_CC)
-bp<-as.data.frame(GO_results_justino_motif_BP)
-bp$GeneRatio
+
 # Saving results as a csv file
 write.csv(as.data.frame(GO_results_justino_motif_BP), file = "tables/GO_results_justino_motif_BP.csv", row.names = FALSE)
 write.csv(as.data.frame(GO_results_justino_motif_MF), file = "tables/GO_results_justino_motif_MF.csv", row.names = FALSE)
 write.csv(as.data.frame(GO_results_justino_motif_CC), file = "tables/GO_results_justino_motif_CC.csv", row.names = FALSE)
 
 #
-top_MF_motif <- as.data.frame(GO_results_justino_motif_MF) %>% head(5)
+top_MF_motif <- as.data.frame(GO_results_justino_motif_MF) %>% head(3)
 top_BP_motif <- as.data.frame(GO_results_justino_motif_BP) %>% head(5)
-top_CC_motif <- as.data.frame(GO_results_justino_motif_CC) %>% head(5)
+top_CC_motif <- as.data.frame(GO_results_justino_motif_CC) %>% head(1)
 
 # Add an ONTOLOGY column
 top_MF_motif$ONTOLOGY <- "MF"
@@ -163,19 +164,21 @@ top_CC_motif$ONTOLOGY <- "CC"
 combined_results_motif <- rbind(top_MF_motif, top_BP_motif, top_CC_motif)
 
 fit_justino_motif <- ggplot(combined_results_motif, aes(x = RichFactor, y = Description)) +
-  geom_segment(aes(xend=0, yend = Description)) +
+  geom_segment(aes(xend = 0, yend = Description)) +
   geom_point(aes(size = Count, colour = p.adjust)) +
-  facet_grid(rows = vars(ONTOLOGY), scales = "free") +
+  scale_size(range = c(6, 12))+
+  facet_wrap(vars(ONTOLOGY), scales = "free_y", ncol = 1) +
   scale_colour_gradient(low = "blue", high = "#FFCC00", guide = "colorbar") +
+  scale_y_discrete(expand = expansion(mult = c(0.1, 0.1))) + 
   theme_minimal() +
   theme(
-    axis.text.x = element_text(size = 14, angle = 45, hjust = 1, face = "bold"),
-    axis.text.y = element_text(size = 16, hjust = 1),
-    axis.title = element_text(size = 16, face = "bold"),   
-    legend.title = element_text(size = 16, face = "bold"),
-    legend.text = element_text(size = 14),                
-    strip.text = element_text(size = 16, face = "bold"),
-    panel.spacing = unit(1, "lines")
+    axis.text.x = element_text(size = 25, angle = 45, hjust = 1, face = "bold"),
+    axis.text.y = element_text(size = 30, hjust = 1, lineheight = 1.8),  
+    axis.title = element_text(size = 25, face = "bold"),   
+    legend.title = element_text(size = 25, face = "bold"),
+    legend.text = element_text(size = 25),              
+    strip.text = element_text(size = 25, face = "bold"),
+    panel.spacing = unit(0.5, "lines")
   ) +
   labs(
     x = "Rich Factor",
@@ -183,7 +186,6 @@ fit_justino_motif <- ggplot(combined_results_motif, aes(x = RichFactor, y = Desc
     colour = "Adjusted p-value",
     size = "Gene Count"
   )
-
 
 fit_justino_motif
 
@@ -194,13 +196,13 @@ combinedplot<- ggarrange(annotate_figure(fit_justino,top = text_grob("GO enriche
 size = 25,face = "bold", hjust = 0.5)), 
           annotate_figure(fit_justino_motif,top = text_grob("GO enriched terms for DEGs with Chinmo motif", color = "black",
 size = 25,face = "bold", hjust = 0.5)),
-ncol = 1,nrow=2,labels = c("A", "B"),font.label = list(size = 20, face = "bold", family = "Arial"))
+ncol = 1,nrow=2,labels = c("B", "C"),font.label = list(size = 30, face = "bold", family = "Arial"))
 
 
 ggsave(filename = "plots/GO_plot.png",
        plot = combinedplot,
-       width = 4250, 
-       height = 2750, 
+       width = 6500, 
+       height = 5000, 
        units = "px", 
        dpi = 300)
 
@@ -260,8 +262,8 @@ venn.plot <- venn.diagram(
   fill = c("#99CCFF", "#FFFF99", "#6666FF"), 
   alpha = 0.8,
   label.col = "black",
-  cex = 2,
-  cat.cex = 1.5, 
+  cex = 5,
+  cat.cex = 3, 
   cat.fontface = "bold"
 )
 
@@ -270,7 +272,7 @@ grid.draw(venn.plot)
 
 venn_recorded <- recordPlot()
 
-png("plots/venn.png", width = 4500, height = 4500, units = "px", res = 600)
+png("plots/venn.png", width = 9000, height = 7500, units = "px", res = 600)
 
 replayPlot(venn_recorded)
 
